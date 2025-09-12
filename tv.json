@@ -1,31 +1,22 @@
 {
   "sites": [
     {
-      "key": "hme",
-      "name": "黑木耳",
+      "key": "jyzy",
+      "name": "金鹰",
       "type": 1,
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
-      "key": "lz",
-      "name": "量子",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mtzy",
-      "name": "茅台资源",
+      "key": "hyzy",
+      "name": "虎牙",
       "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/json/",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hyyun/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     }
   ],
   "lives": [
@@ -281,5 +272,4 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
-
 }
