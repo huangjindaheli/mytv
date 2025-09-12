@@ -1,19 +1,19 @@
 {
   "sites": [
     {
-      "key": "jyzy",
-      "name": "金鹰",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "key": "nnzy",
+      "name": "牛牛",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "hyzy",
-      "name": "虎牙",
+      "key": "yzzy",
+      "name": "优质资源",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hyyun/at/json",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
