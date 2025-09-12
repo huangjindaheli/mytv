@@ -1,19 +1,19 @@
 {
   "sites": [
     {
-      "key": "nnzy",
-      "name": "牛牛",
+      "key": "tyttzy",
+      "name": "电影天堂",
       "type": 0,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "yzzy",
-      "name": "优质资源",
-      "type": 1,
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "key": "mzzy",
+      "name": "魔抓资源",
+      "type": 0,
+      "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
