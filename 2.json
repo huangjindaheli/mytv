@@ -21,17 +21,8 @@
     {
       "key": "fqzy",
       "name": "番茄",
-      "type": 0,
-      "api": "https://fqzy.me//api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "91zy",
-      "name": "91",
-      "type": 0,
-      "api": "https://91jpzyw.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": " https://fqzy.me//api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -212,6 +203,15 @@
       "name": "极品资源",
       "type": 1,
       "api": "https://jipinvip1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shayu",
+      "name": "鲨鱼",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
