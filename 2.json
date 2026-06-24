@@ -7,7 +7,7 @@
       "api": "https://hsckzy888.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "xbzy",
@@ -16,7 +16,7 @@
       "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "fqzy",
@@ -25,7 +25,7 @@
       "api": "https://fqzy.me//api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "91zy",
@@ -34,7 +34,7 @@
       "api": "https://91jpzyw.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "xzy",
@@ -43,7 +43,7 @@
       "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "xjzy",
@@ -52,7 +52,7 @@
       "api": "https://api.xiaojizy.live/provide/vod?at=xml&ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "xibaozy",
@@ -61,7 +61,7 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "taohua",
@@ -70,7 +70,7 @@
       "api": "https://thzy1.me/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "swzy",
@@ -79,7 +79,7 @@
       "api": "https://siwazyw.tv/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "ckllzy",
@@ -88,7 +88,7 @@
       "api": "https://ckzy.me/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "danaizy",
@@ -97,7 +97,7 @@
       "api": "https://apidanaizi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "savzy",
@@ -106,7 +106,7 @@
       "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "zuisezy",
@@ -115,7 +115,7 @@
       "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "didizy",
@@ -124,7 +124,7 @@
       "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "doudouzy",
@@ -133,7 +133,7 @@
       "api": "https://api.douapi.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "jinpinxzy",
@@ -142,7 +142,7 @@
       "api": "https://www.jingpinx.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "lajiaozy",
@@ -151,7 +151,7 @@
       "api": "https://apilj.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "senlinzy",
@@ -160,7 +160,7 @@
       "api": "https://slapibf.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "155zy",
@@ -169,7 +169,7 @@
       "api": "https://155api.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "lebozy",
@@ -178,7 +178,7 @@
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "yutuzy",
@@ -187,7 +187,7 @@
       "api": "https://apiyutu.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "laosepzy",
@@ -196,7 +196,7 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "fanhao",
